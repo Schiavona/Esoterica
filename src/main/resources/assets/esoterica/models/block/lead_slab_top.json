@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "esoterica:block/lead_block",
-    "top": "esoterica:block/lead_block",
-    "side": "esoterica:block/lead_block"
-  }
-}

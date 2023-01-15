@@ -17,7 +17,7 @@ import net.schiavona.esoterica.item.ModItemGroup;
 
 public class ModSlabs {
 
-    public static final SlabBlock LEAD_SLAB = registerSlab("lead_slab", new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()),ModItemGroup.ESOTERICA);
+
     public static final SlabBlock CUT_LEAD_SLAB = registerSlab("cut_lead_slab", new SlabBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()),ModItemGroup.ESOTERICA);
     private static Item registerSlabItem(String name, SlabBlock slab, ItemGroup group) {
         Item item = Registry.register(Registries.ITEM, new Identifier(Esoterica.MOD_ID, name),
