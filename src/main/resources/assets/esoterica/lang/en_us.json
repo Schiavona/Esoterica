@@ -1,0 +1,13 @@
+{
+  "item.esoterica.cinnabar": "Cinnabar",
+  "item.esoterica.silver_nugget": "Silver Nugget",
+  "item.esoterica.silver_ingot": "Silver Ingot",
+  "item.esoterica.raw_silver": "Raw Silver",
+  "item.esoterica.lead_ingot": "Lead Ingot",
+  "item.esoterica.lead_nugget": "Lead Nugget",
+  "item.esoterica.raw_lead": "Raw Lead",
+  "block.esoterica.lead_block" :"Lead Block",
+  "block.esoterica.cut_lead_block" :"Cut Lead Block",
+  "block.esoterica.lead_slab": "Lead Slab",
+  "block.esoterica.cut_lead_slab": "Cut Lead Slab"
+}

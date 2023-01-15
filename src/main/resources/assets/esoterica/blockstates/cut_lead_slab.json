@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "esoterica:block/cut_lead_slab"
+    },
+    "type=double": {
+      "model": "esoterica:block/cut_lead_block"
+    },
+    "type=top": {
+      "model": "esoterica:block/cut_lead_slab_top"
+    }
+  }
+}

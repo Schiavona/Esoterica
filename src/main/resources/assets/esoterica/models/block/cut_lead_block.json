@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "esoterica:block/cut_lead_block"
+  }
+}
