@@ -1,0 +1,17 @@
+{
+"type": "minecraft:crafting_shaped",
+"category": "building",
+"key": {
+"#": {
+"item": "esoterica:lead_ingot"
+}
+},
+"pattern": [
+"###",
+"###",
+"###"
+],
+"result": {
+"item": "esoterica:lead_block"
+}
+}
