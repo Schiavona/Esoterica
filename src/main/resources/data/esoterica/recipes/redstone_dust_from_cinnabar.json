@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cinnabar",
+  "ingredients": [
+    {
+      "item": "esoterica:cinnabar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:redstone"
+  }
+}

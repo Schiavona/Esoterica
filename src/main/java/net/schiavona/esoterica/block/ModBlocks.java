@@ -18,7 +18,7 @@ public class ModBlocks {
 
     public static final Block LEAD_BLOCK = registerBlock("lead_block", new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ESOTERICA);
     public static final Block CUT_LEAD_BLOCK = registerBlock("cut_lead_block", new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.ESOTERICA);
-
+    public static final Block RAW_LEAD_BLOCK = registerBlock("raw_lead_block", new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.ESOTERICA);
 
 
     private static Block registerBlock (String name, Block block, ItemGroup tab){

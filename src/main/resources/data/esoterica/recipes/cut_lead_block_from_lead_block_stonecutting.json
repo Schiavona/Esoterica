@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "esoterica:lead_block"
+  },
+  "result": "esoterica:cut_lead_block"
+}

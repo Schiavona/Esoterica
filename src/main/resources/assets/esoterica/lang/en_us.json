@@ -9,5 +9,15 @@
   "block.esoterica.lead_block" :"Lead Block",
   "block.esoterica.cut_lead_block" :"Cut Lead Block",
   "block.esoterica.lead_slab": "Lead Slab",
-  "block.esoterica.cut_lead_slab": "Cut Lead Slab"
+  "block.esoterica.cut_lead_slab": "Cut Lead Slab",
+  "block.esoterica.raw_lead_block": "Raw Lead Block",
+  "item.minecraft.redstone": "Vermillion Powder",
+  "block.minecraft.redstone_block": "Block of Vermillion Powder",
+  "block.minecraft.redstone_lamp": "Vermillion Lamp",
+  "block.minecraft.redstone_torch": "Vermillion Torch",
+  "block.minecraft.repeater": "Vermillion Repeater",
+  "block.minecraft.comparator": "Vermillion Comparator",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Cinnabar Ore",
+  "block.minecraft.redstone_ore": "Cinnabar Ore"
+
 }
