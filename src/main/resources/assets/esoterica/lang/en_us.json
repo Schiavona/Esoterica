@@ -18,6 +18,8 @@
   "block.minecraft.repeater": "Vermillion Repeater",
   "block.minecraft.comparator": "Vermillion Comparator",
   "block.minecraft.deepslate_redstone_ore": "Deepslate Cinnabar Ore",
-  "block.minecraft.redstone_ore": "Cinnabar Ore"
+  "block.minecraft.redstone_ore": "Cinnabar Ore",
+  "block.esoterica.lead_ore": "Lead Ore",
+  "block.esoterica.deepslate_lead_ore": "Deepslate Lead Ore"
 
 }

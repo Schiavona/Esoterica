@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+      "esoterica:lead_ore",
+      "esoterica:lead_block",
+      "esoterica:cut_lead_block",
+      "esoterica:cut_lead_slab",
+      "esoterica:deepslate_lead_ore"
+  ]
+}

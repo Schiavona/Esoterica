@@ -4,5 +4,5 @@
   "ingredient": {
     "item": "esoterica:lead_block"
   },
-  "result": "minecraft:cut_lead_slab"
+  "result": "esoterica:cut_lead_slab"
 }
